@@ -1,4 +1,4 @@
-# EDA-Global-Hotel-Booking-Trends---AtliQ-Grands
+## 🚀🌆EDA-Global-Hotel-Booking-Trends---AtliQ-Grands
 
 ## Project Status & Tech Stack
 [![Project Status](https://img.shields.io/badge/Status-Analysis%20Complete-brightgreen)](https://github.com/harsh-dataanalyst/atliq-hotels-data-analysis)
@@ -92,7 +92,7 @@ This project was developed by:
 
 **Harsh Gupta**
 
-* 🔗 **LinkedIn:** [linkedin.com/in/hganalyst](https://www.linkedin.com/in/rimonghosh)
-* 📧 **Email:** [harshgupta11x@gmail.com](mailto:rimonsarbajitghosh@gmail.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/rimonghosh](https://www.linkedin.com/in/rimonghosh)
+* 📧 **Email:** [rimonsarbajitghosh@gmail.com](mailto:rimonsarbajitghosh@gmail.com)
 
 Feel free to connect or drop a message about the analysis!
