@@ -1,3 +1,5 @@
+<div align="center">
+   
 # 🚀🌆EDA-Global-Hotel-Booking-Trends---AtliQ-Grands
 
 ## Project Status & Tech Stack
@@ -6,6 +8,10 @@
 [![Language](https://img.shields.io/badge/Language-Python-informational)](https://www.python.org/)
 [![Tools](https://img.shields.io/badge/Tools-Jupyter%20Notebook%20%7C%20Pandas%20%7C%20Matplotlib-blue)](https://jupyter.org/)
 [![Domain](https://img.shields.io/badge/Domain-Hospitality%20%2F%20Hotel-red)](https://github.com/harsh-dataanalyst/atliq-hotels-data-analysis)
+
+<p align="center">
+  <img src="thumbnail.png" alt="EDA Analysis Dashboard" width="800"/>
+</p>
 
 ---
 
