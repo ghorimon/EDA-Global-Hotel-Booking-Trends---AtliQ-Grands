@@ -13,6 +13,7 @@
   <img src="thumbnail.png" alt="EDA Analysis Dashboard" width="800"/>
 </p>
 
+</div>
 ---
 
 ## 🌟 Project Overview
