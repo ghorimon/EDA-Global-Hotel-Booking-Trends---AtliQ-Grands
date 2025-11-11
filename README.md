@@ -4,7 +4,7 @@
 [![Project Status](https://img.shields.io/badge/Status-Analysis%20Complete-brightgreen)](https://github.com/harsh-dataanalyst/atliq-hotels-data-analysis)
 [![Analysis Period](https://img.shields.io/badge/Data%20Period-May%20'22%20--%20Aug%20'22-blue)](https://github.com/harsh-dataanalyst/atliq-hotels-data-analysis)
 [![Language](https://img.shields.io/badge/Language-Python-informational)](https://www.python.org/)
-[![Tools](https://img.shields.io/badge/Tools-Jupyter%20Notebook%20%7C%20Pandas%20%7C%20Matplotlib-yellow)](https://jupyter.org/)
+[![Tools](https://img.shields.io/badge/Tools-Jupyter%20Notebook%20%7C%20Pandas%20%7C%20Matplotlib-blue)](https://jupyter.org/)
 [![Domain](https://img.shields.io/badge/Domain-Hospitality%20%2F%20Hotel-red)](https://github.com/harsh-dataanalyst/atliq-hotels-data-analysis)
 
 ---
